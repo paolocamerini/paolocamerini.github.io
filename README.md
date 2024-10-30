@@ -3,4 +3,4 @@ mevo.stock is an online marketplace where a variety of digital products are sold
 
 _The website is not optimized for mobile devices_
 
-link -> 
+link -> https://paolocamerini.github.io
